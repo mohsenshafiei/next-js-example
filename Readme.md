@@ -1,1 +1,1 @@
-[Read More](https://hendrixer.github.io/nextjs-course/working-with-ssr)
+[Read More](https://hendrixer.github.io/nextjs-course/)
